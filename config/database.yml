@@ -10,6 +10,7 @@ development:
   database: demo_app_development
   username: root
   password: chuddy
+  host: localhost
 
 #development:
 #  adapter: sqlite3
